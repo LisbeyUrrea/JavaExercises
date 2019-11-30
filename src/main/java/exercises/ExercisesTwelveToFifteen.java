@@ -45,7 +45,21 @@ public class ExercisesTwelveToFifteen {
     public String exercisesThirteenGetActualDate() {
 
         Date fecha = new Date(Calendar.getInstance().getTimeInMillis());
-        SimpleDateFormat formatter = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
+        SimpleDateFormat formatter = new SimpleDateFormat("(yyyy/MM/dd) (HH:mm:ss)");
         return formatter.format(fecha);
     }
+
+	public List<Integer> exercisesFourteen(String i) {
+		List<Integer> numbres = new ArrayList<>();
+		  try {
+				for (int j = Integer.parseInt(i); j <= 1000; j+=2) {
+					numbres.add(j);
+				}
+	        }catch (NumberFormatException e){
+	            throw new NumberFormatException("Solo debe digitar numeros");
+	        }
+
+		
+		return numbres;
+	}
 }

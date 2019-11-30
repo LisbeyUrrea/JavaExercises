@@ -8,8 +8,10 @@ import org.junit.jupiter.api.Test;
 import java.text.SimpleDateFormat;
 import java.time.LocalDate;
 import java.time.LocalTime;
+import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Date;
+import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -49,13 +51,39 @@ class ExercisesTwelveToFifteenTest {
         @Test
         void souldReturnActualDateInSpecificFormat(){
             Date fecha = new Date(Calendar.getInstance().getTimeInMillis());
-            SimpleDateFormat formatter = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
+            SimpleDateFormat formatter = new SimpleDateFormat("(yyyy/MM/dd) (HH:mm:ss)");
             String fechaTexto = formatter.format(fecha);
             assertEquals(fechaTexto, exercisesTwelveToFifteen.exercisesThirteenGetActualDate());
 
-
         }
+        
 
     }
+    
+    @Nested
+    @DisplayName("Exercise Thirteen")
+    class ExerciseFourteen{
+        @Test
+        void souldReturnNumbersTill1000(){
+        	
+        	List<Integer> numbres = new ArrayList<>();
+        	numbres.add(990);
+        	numbres.add(992);
+        	numbres.add(994);
+        	numbres.add(996);
+        	numbres.add(998);
+        	numbres.add(1000);
+     
+        	assertEquals(numbres, exercisesTwelveToFifteen.exercisesFourteen("990"));	
+        }
+        
+        @Test
+        void souldReturnNumberFormatException(){
+        	assertThrows(NumberFormatException.class, ()-> exercisesTwelveToFifteen.exercisesFourteen("l"));
+        	
+        }
+    	
+    }
+
 
 }

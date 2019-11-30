@@ -1,7 +1,4 @@
-import exercises.ExercisesOneToSix;
-import exercises.ExercisesSevenToEleven;
-import exercises.ExercisesTwelveToFifteen;
-
+package exercises;
 import javax.xml.bind.ValidationException;
 import java.util.Map;
 import java.util.Scanner;
@@ -18,9 +15,8 @@ public class Main {
 
     public static void main(String[] args) {
         Main main = new Main();
-        ExercisesTwelveToFifteen exercisesTwelveToFifteen = new ExercisesTwelveToFifteen();
-        System.out.println(exercisesTwelveToFifteen.exercisesTwelveComparateToText("hola", "como estas?"));
-        // main.menu();
+
+         main.menu();
 
     }
 
@@ -64,6 +60,27 @@ public class Main {
                     case 11 :
                         this.exerciseEleven();
                         break;
+                    case 12 :
+                    	 scanner = new Scanner(System.in);
+                    	 logger.log(Level.INFO,() -> "Digite un frase");
+                         String textOne = scanner.nextLine();
+                         logger.log(Level.INFO,() -> "Digite un frase");
+                         String textTwo = scanner.nextLine();
+                         logger.log(Level.INFO, exercisesTwelveToFifteen.exercisesTwelveComparateToText(textOne, textTwo));
+                        break;
+                    case 13 :
+                    	 logger.log(Level.INFO, exercisesTwelveToFifteen.exercisesThirteenGetActualDate());
+                        break;  
+                    case 14 :
+                    	 logger.log(Level.INFO,() -> "digite un numero menor de 1000");
+                    	 String numberToCalcuate = scanner.next();
+                    	 String message = "Los numeros para completar 1000 son : "+ exercisesTwelveToFifteen.exercisesFourteen(numberToCalcuate);
+                    	 logger.log(Level.INFO, message);
+                    	 break;
+                    case 15 :
+                   	   this.exerciseFifteen();
+                       break;
+                    	   
                     default:
                         break;
 
@@ -194,6 +211,34 @@ public class Main {
         logger.log(Level.INFO,message);
 
 
+    }
+    
+    void exerciseFifteen(){
+    	String message = "Digite un numero de la siguiente lista. \n"+
+    			"*****GESTION CINEMATOGRÁFICA***** \n"+
+                "1-NUEVO ACTOR\n"+
+                "2-BUSCAR ACTOR\n"+
+                "3-ELIMINAR ACTOR \n"+
+                "4-MODIFICAR ACTOR \n"+
+                "5-VER TODOS LOS ACTORES \n"+
+                "6- VER PELICULAS DE LOS ACTORES \n"+
+                "7-VER CATEGORIA DE LAS PELICULAS DE LOS ACTORES \n"+
+                "8-SALIR \n";
+    	
+        logger.log(Level.INFO,message);
+        String number = null;
+        do {
+            number = scanner.next();
+            boolean validate = number.equals("1") || number.equals("2") || number.equals("3") || number.equals("4") || number.equals("5") || number.equals("6") || number.equals("7") || number.equals("8");
+            if(!validate) {
+            	logger.log(Level.INFO,"OPCION INCORRECTA.");
+            	logger.log(Level.INFO,message);
+            }else {
+            	logger.log(Level.INFO,"Digito la Opcion "+number);
+            }
 
+        }while (!number.equals("8"));
+
+        logger.log(Level.INFO,"SALIO EXITOSAMENTE.");
     }
 }
