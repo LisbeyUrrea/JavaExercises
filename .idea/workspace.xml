@@ -1,8 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="411cfc54-4aa8-4158-ae89-f259818af59a" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="411cfc54-4aa8-4158-ae89-f259818af59a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/java8maven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/3/137b6e51f981cd815fe8aa62031ed3022c826a61" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/c/4cc3b88d9756f1417dd22cafce3afdf2b49b69c8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/d/5d67f05d0969d8fe60987dfd9f46b8e181a6c2e2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bba582bb4cab0187a9328aec0540e06b7c48f887" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/d/bd7bc2c341e405a126fcdf8a36d23a14e2c264e3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/1/e1bf58183d24d2a197ae587b4d35be9736e8883a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/seventeen/Constans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/seventeen/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/seventeen/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/5/65a2ba6ad7c2f60434f8639a368f101e3dc23c88" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6db0908d1900f56bd27dfe243284039c2aed51d3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e44a8606ce010ad9b89aafdfcee2ab49afbf6d10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/ExercisesOneToSix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/ExercisesOneToSix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/exercises/ExercisesOneToSixTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exercises/ExercisesOneToSixTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com.java8.maven/java8.maven/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com.java8.maven/java8.maven/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exercises/ExercisesOneToSix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exercises/ExercisesOneToSix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exercises/ExercisesSevenToEleven.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exercises/ExercisesSevenToEleven.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exercises/ExercisesTwelveToFifteen.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exercises/ExercisesTwelveToFifteen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exercises/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exercises/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/java8.maven-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/java8.maven-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/.sonar_lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/report-task.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/exercises/ExercisesOneToSixTest$ExerciseFiveAndSix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/exercises/ExercisesOneToSixTest$ExerciseFiveAndSix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/exercises/ExercisesOneToSixTest$ExerciseFour.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/exercises/ExercisesOneToSixTest$ExerciseFour.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/exercises/ExercisesOneToSixTest$ExerciseOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/exercises/ExercisesOneToSixTest$ExerciseOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/exercises/ExercisesOneToSixTest$ExerciseThree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/exercises/ExercisesOneToSixTest$ExerciseThree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/exercises/ExercisesOneToSixTest$ExerciseTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/exercises/ExercisesOneToSixTest$ExerciseTwo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/exercises/ExercisesOneToSixTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/exercises/ExercisesOneToSixTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/exercises/ExercisesSevenToElevenTest$ExerciseEight.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/exercises/ExercisesSevenToElevenTest$ExerciseEight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/exercises/ExercisesSevenToElevenTest$ExerciseEleven.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/exercises/ExercisesSevenToElevenTest$ExerciseEleven.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/exercises/ExercisesSevenToElevenTest$ExerciseNine.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/exercises/ExercisesSevenToElevenTest$ExerciseNine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/exercises/ExercisesSevenToElevenTest$ExerciseOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/exercises/ExercisesSevenToElevenTest$ExerciseOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/exercises/ExercisesSevenToElevenTest$ExerciseTen.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/exercises/ExercisesSevenToElevenTest$ExerciseTen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/exercises/ExercisesSevenToElevenTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/exercises/ExercisesSevenToElevenTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/exercises/ExercisesTwelveToFifteenTest$ExerciseFourteen.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/exercises/ExercisesTwelveToFifteenTest$ExerciseFourteen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/exercises/ExercisesTwelveToFifteenTest$ExerciseThirteen.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/exercises/ExercisesTwelveToFifteenTest$ExerciseThirteen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/exercises/ExercisesTwelveToFifteenTest$ExerciseTwelve.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/exercises/ExercisesTwelveToFifteenTest$ExerciseTwelve.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/exercises/ExercisesTwelveToFifteenTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/exercises/ExercisesTwelveToFifteenTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,16 +63,27 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UFrH68yGBd6DwvdrUQ61QFOeOH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_ISSUES_SPLIT_PROPORTION" value="0.511592" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ahorcado" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -39,27 +102,34 @@
       <command value="mvn site:run" />
     </option>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="JUnit.ExercisesTwelveToFifteenTest$ExerciseThirteen">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.seventeen.Main" />
+      <module name="java8maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercises.seventeen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="MAIN_CLASS_NAME" value="exercises.Main" />
       <module name="java8maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExercisesSevenToElevenTest$ExerciseEleven" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ExercisesOneToSixTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java8maven" />
       <extension name="coverage">
         <pattern>
@@ -68,13 +138,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="exercises" />
-      <option name="MAIN_CLASS_NAME" value="exercises.ExercisesSevenToElevenTest$ExerciseEleven" />
+      <option name="MAIN_CLASS_NAME" value="exercises.ExercisesOneToSixTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExercisesSevenToElevenTest$ExerciseEleven.souldReturnLengOfSentence" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ExercisesSevenToElevenTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java8maven" />
       <extension name="coverage">
         <pattern>
@@ -83,29 +153,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="exercises" />
-      <option name="MAIN_CLASS_NAME" value="exercises.ExercisesSevenToElevenTest$ExerciseEleven" />
-      <option name="METHOD_NAME" value="souldReturnLengOfSentence" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExercisesTwelveToFifteenTest$ExerciseThirteen" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java8maven" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="exercises" />
-      <option name="MAIN_CLASS_NAME" value="exercises.ExercisesTwelveToFifteenTest$ExerciseThirteen" />
+      <option name="MAIN_CLASS_NAME" value="exercises.ExercisesSevenToElevenTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExercisesTwelveToFifteenTest$ExerciseTwelve" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ExercisesTwelveToFifteenTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java8maven" />
       <extension name="coverage">
         <pattern>
@@ -114,7 +168,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="exercises" />
-      <option name="MAIN_CLASS_NAME" value="exercises.ExercisesTwelveToFifteenTest$ExerciseTwelve" />
+      <option name="MAIN_CLASS_NAME" value="exercises.ExercisesTwelveToFifteenTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -122,13 +176,25 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ExercisesTwelveToFifteenTest$ExerciseThirteen" />
-        <item itemvalue="JUnit.ExercisesTwelveToFifteenTest$ExerciseTwelve" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.ExercisesSevenToElevenTest$ExerciseEleven" />
-        <item itemvalue="JUnit.ExercisesSevenToElevenTest$ExerciseEleven.souldReturnLengOfSentence" />
+        <item itemvalue="JUnit.ExercisesTwelveToFifteenTest" />
+        <item itemvalue="JUnit.ExercisesSevenToElevenTest" />
+        <item itemvalue="JUnit.ExercisesOneToSixTest" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -142,6 +208,82 @@
       <updated>1574963093660</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1575324205569">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1575324205569" />
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1575294165740" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1575298293435">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1575298293435" />
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1575325773591">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1575325773591" />
+    <state width="1397" height="251" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1575292105960" />
+    <state width="1397" height="276" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1575298295787" />
+    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1575325773591">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1575325773591" />
+    <state width="1397" height="251" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1575292105960" />
+    <state width="1397" height="276" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1575298295787" />
+    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1575325773591">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1575325773591" />
+    <state width="1397" height="251" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1575292105959" />
+    <state width="1397" height="276" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1575298295787" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1575325773591">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1575325773591" />
+    <state width="1397" height="251" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1575292105960" />
+    <state width="1397" height="276" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1575298295787" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1575325783377">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1575325783377" />
+    <state width="1397" height="276" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1575291720747" />
+    <state width="1397" height="276" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1575298295788" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1575325783376">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1575325783376" />
+    <state width="1397" height="276" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1575291720747" />
+    <state width="1397" height="276" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1575298295788" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1575325783376">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1575325783376" />
+    <state width="1397" height="276" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1575291720747" />
+    <state width="1397" height="276" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1575298295787" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1575325783376">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1575325783376" />
+    <state width="1397" height="276" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1575291720747" />
+    <state width="1397" height="276" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1575298295788" />
+    <state x="1857" y="148" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1575291919202">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state x="1857" y="148" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1575291919202" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/java8maven$ExercisesOneToTenTest.ic" NAME="ExercisesOneToTenTest Coverage Results" MODIFIED="1574979971580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

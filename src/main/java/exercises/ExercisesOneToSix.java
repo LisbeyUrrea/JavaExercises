@@ -11,7 +11,7 @@ public class ExercisesOneToSix {
     public String exerciseOneComparateNumbers(int number1, int number2){
         return (number1 > number2) ? (number1 + " es mayor que "+number2) :
                 (number1 < number2) ? (number2 + " es mayor que " + number1) :
-                        ("Los números son iguales");
+                        ("Los numeros son iguales");
     }
 
     public String exerciseTwoComparateNumbers(String number1, String number2){

@@ -1,6 +1,0 @@
-projectKey=com.java8.maven:java8.maven
-serverUrl=http://localhost:9000
-serverVersion=7.8.0.26217
-dashboardUrl=http://localhost:9000/dashboard?id=com.java8.maven%3Ajava8.maven
-ceTaskId=AW645emZvENANMUKhRBs
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AW645emZvENANMUKhRBs

@@ -40,7 +40,7 @@ class ExercisesOneToSixTest {
         @Test
         void shouldBeEquals() {
             String mensaje = exercisesOneToSix.exerciseOneComparateNumbers(10,10);
-            assertEquals("Los números son iguales", mensaje);
+            assertEquals("Los numeros son iguales", mensaje);
         }
 
     }
@@ -68,7 +68,7 @@ class ExercisesOneToSixTest {
         @Test
         void shouldBeEquals() {
             String mensaje = exercisesOneToSix.exerciseTwoComparateNumbers("10","10");
-            assertEquals("Los números son iguales", mensaje);
+            assertEquals("Los numeros son iguales", mensaje);
         }
         @Test
         void shouldReturnNumberFormatException() {

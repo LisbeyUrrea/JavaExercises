@@ -1,0 +1,9 @@
+
+Osquid:S1068",Remove this unused "yearsOld" private field.(Î»ãıÿÿÿÿ8ìÃ¶ì-
+Msquid:S1068"*Remove this unused "gender" private field.(–²Éıÿÿÿÿ8ìÃ¶ì-
+Jsquid:S1068"'Remove this unused "DNI" private field.(èüöšıÿÿÿÿ8Û“Ì¶ì-
+rsquid:S00116"NRename this field "DNI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èüöšıÿÿÿÿ8Û“Ì¶ì-
+Zsquid:S1854 "7Remove this useless assignment to local variable "imc".(°÷¹íùÿÿÿÿ8¡û¶ì-
+Ksquid:S1481 "(Remove this unused "imc" local variable.(°÷¹íùÿÿÿÿ8¡û¶ì-
+Ksquid:S1068"(Remove this unused "name" private field.(Ò±÷şÿÿÿÿ8İçã¶ì-
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ü8Ò×å¶ì-

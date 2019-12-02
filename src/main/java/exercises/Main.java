@@ -225,14 +225,14 @@ public class Main {
                 "7-VER CATEGORIA DE LAS PELICULAS DE LOS ACTORES \n"+
                 "8-SALIR \n";
     	
-        logger.log(Level.INFO,message);
+
         String number = null;
         do {
+            logger.log(Level.INFO,message);
             number = scanner.next();
             boolean validate = number.equals("1") || number.equals("2") || number.equals("3") || number.equals("4") || number.equals("5") || number.equals("6") || number.equals("7") || number.equals("8");
             if(!validate) {
             	logger.log(Level.INFO,"OPCION INCORRECTA.");
-            	logger.log(Level.INFO,message);
             }else {
             	logger.log(Level.INFO,"Digito la Opcion "+number);
             }
